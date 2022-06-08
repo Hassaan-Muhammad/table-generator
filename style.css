@@ -1,0 +1,34 @@
+.main{
+    position: relative;
+    left: 640px;
+    border: 2px solid black;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+
+}
+body{
+    background-color: slategray;
+}
+h2{
+    color: black;
+    background-color: aquamarine;
+    width: 160px;
+    text-align: center;
+    border-radius: 6px;    
+    position: relative;
+    left: 720px;
+    top: 50px;
+}
+button{
+    background-color: bisque;
+    color: black;
+}
